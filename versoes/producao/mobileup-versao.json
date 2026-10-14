@@ -1,0 +1,34 @@
+{
+    "formato":  1,
+    "publicadoEm":  "2026-10-14T11:54:33-03:00",
+    "pacotes":  {
+                    "android-app":  {
+                                        "versao":  "1.79.1",
+                                        "build":  1081,
+                                        "urls":  [
+                                                     "https://github.com/diegocodigoup/MobileUp-versoes/releases/download/v1.79.1-1081/MobileUp-v1-79-1.apk",
+                                                     "https://www.codigoup.com/painel/files/MobileUp-v1-79-1.apk"
+                                                 ],
+                                        "sha256":  "217ee9ce50554ff8763cab51906849cd88629a771143e2de833ec52786e820a8",
+                                        "tamanho":  131338908,
+                                        "versaoMinimaServidor":  "1.0.2.20",
+                                        "versaoMinimaRetaguarda":  "1.1.15.0",
+                                        "obrigatoria":  false,
+                                        "notas":  "Teste"
+                                    },
+                    "windows":  {
+                                    "versao":  "1.79.1",
+                                    "build":  1081,
+                                    "urls":  [
+                                                 "https://github.com/diegocodigoup/MobileUp-versoes/releases/download/v1.79.1-1081/MobileUpWin-v1-79-1.zip",
+                                                 "https://www.codigoup.com/painel/files/MobileUpWin-v1-79-1.zip"
+                                             ],
+                                    "sha256":  "850d021db787bd07e5dc9a03b5a0eef35721e8338c09ef72b6ec11a35cc958dd",
+                                    "tamanho":  83927283,
+                                    "versaoMinimaServidor":  "1.0.2.20",
+                                    "versaoMinimaRetaguarda":  "1.1.15.0",
+                                    "obrigatoria":  false,
+                                    "notas":  "Teste"
+                                }
+                }
+}

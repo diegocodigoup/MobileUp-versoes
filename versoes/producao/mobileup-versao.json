@@ -1,6 +1,6 @@
 {
     "formato":  1,
-    "publicadoEm":  "2026-10-14T12:46:43-03:00",
+    "publicadoEm":  "2026-10-14T13:47:02-03:00",
     "pacotes":  {
                     "android-app":  {
                                         "versao":  "1.79.2",
@@ -18,17 +18,17 @@
                                     },
                     "windows":  {
                                     "versao":  "1.79.2",
-                                    "build":  1082,
+                                    "build":  1083,
                                     "urls":  [
-                                                 "https://github.com/diegocodigoup/MobileUp-versoes/releases/download/v1.79.2-1082/MobileUpWin-v1-79-2.zip",
+                                                 "https://github.com/diegocodigoup/MobileUp-versoes/releases/download/v1.79.2-1083/MobileUpWin-v1-79-2.zip",
                                                  "https://www.codigoup.com/painel/files/MobileUpWin-v1-79-2.zip"
                                              ],
-                                    "sha256":  "ee5653d1d3c4b272cc3e23b9dd0875d35566938bd97b1ed1a336de39a2b1a7ea",
-                                    "tamanho":  83927221,
+                                    "sha256":  "5e53834c0f832023fcec2006273b15c5e4de1833e07fe88857aac0c3129e69af",
+                                    "tamanho":  83928066,
                                     "versaoMinimaServidor":  "1.0.2.20",
                                     "versaoMinimaRetaguarda":  "1.1.15.0",
                                     "obrigatoria":  false,
-                                    "notas":  "Teste 2"
+                                    "notas":  "Teste 1083"
                                 }
                 }
 }

@@ -1,20 +1,20 @@
 {
     "formato":  1,
-    "publicadoEm":  "2026-10-14T13:47:02-03:00",
+    "publicadoEm":  "2026-10-14T20:53:36-03:00",
     "pacotes":  {
                     "android-app":  {
                                         "versao":  "1.79.2",
-                                        "build":  1082,
+                                        "build":  1083,
                                         "urls":  [
-                                                     "https://github.com/diegocodigoup/MobileUp-versoes/releases/download/v1.79.2-1082/MobileUp-v1-79-2.apk",
+                                                     "https://github.com/diegocodigoup/MobileUp-versoes/releases/download/v1.79.2-1083/MobileUp-v1-79-2.apk",
                                                      "https://www.codigoup.com/painel/files/MobileUp-v1-79-2.apk"
                                                  ],
-                                        "sha256":  "217ee9ce50554ff8763cab51906849cd88629a771143e2de833ec52786e820a8",
-                                        "tamanho":  131338908,
+                                        "sha256":  "320bf92a6e28e444b0e98aea909b994c8a0f39bdac8e41b216c21477b2f31b64",
+                                        "tamanho":  131338894,
                                         "versaoMinimaServidor":  "1.0.2.20",
                                         "versaoMinimaRetaguarda":  "1.1.15.0",
                                         "obrigatoria":  false,
-                                        "notas":  "Teste 2"
+                                        "notas":  "Teste 1083"
                                     },
                     "windows":  {
                                     "versao":  "1.79.2",
